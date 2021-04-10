@@ -74,6 +74,14 @@ Github 官网也有对提供的 Pages有详细的说明，官网参考：<https:
 ![Pages配置](../images/github-pages.png "Pages配置")
 
 
+![Pages设置完成](../images/github-pages-setting.png "Pages设置完成")
+
+
+![Pages在线网站访问](../images/github-pages-site.png "Pages在线网站访问")
+
+
+
+**在线访问本书的github pages网站：** <https://jiangminggithub.github.io/gitbook/>
 
 
 

@@ -7,6 +7,14 @@
 > [!TIP|style:flat]如何导出各种电子书格式的文件，请参考本书的 `书籍导出` 部分的章节介绍。
 
 
+**在线电子书：**
+
+在线访问本书的github pages网站： <https://jiangminggithub.github.io/gitbook/>
+
+
+在线访问本书的gitee pages网站： <https://jiangming_gitee.gitee.io/gitbook/>
+
+
 
 **下载本书的电子书文件：**
 
@@ -16,7 +24,7 @@ PDF 文件下载：<a href="../book-release/JiangMing©-book-gitbook-tutorial.pd
 
 ePub 文件下载：<a href="../book-release/JiangMing©-book-gitbook-tutorial.epub" target="_blank">点此下载</a>
 
-Mobi 文件下载：<a href="./book-release/JiangMing©-book-gitbook-tutorial.mobi" target="_blank">点此下载</a>
+Mobi 文件下载：<a href="../book-release/JiangMing©-book-gitbook-tutorial.mobi" target="_blank">点此下载</a>
 
 
 

@@ -76,11 +76,14 @@ Gitee 官网也有对提供的 Pages有详细的说明，官网参考：<https:/
 ![Pages配置](../images/gitee-pages.png "Pages配置")
 
 
+![Pages设置完成](../images/gitee-pages-setting.png "Pages设置完成")
+
+
+![Pages在线网站访问](../images/gitee-pages-site.png "Pages在线网站访问")
 
 
 
-
-
+**在线访问本书的gitee pages网站：** <https://jiangming_gitee.gitee.io/gitbook/>
 
 
 <!-- ex_nolevel -->
