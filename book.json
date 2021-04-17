@@ -6,7 +6,7 @@
   "language": "zh-hans",
   "links": {
     "sidebar": {
-      "个人主页": "",
+      "个人主页": "https://itjiangming.github.io",
       "GitHub": "https://github.com/jiangminggithub",
       "Gitee": "https://gitee.com/jiangming_gitee"
     }
@@ -56,7 +56,9 @@
     "chapter-fold",
     "-expandable-chapters-small",
     "-expandable-chapters",
-    "donate"
+    "donate",
+    "valine",
+    "baidu-tongji-with-multiple-channel"
   ],
   "pluginsConfig": {
     "insert-logo": {
@@ -125,12 +127,28 @@
       ]
     },
     "donate": {
-      "wechat": "./images/wechat-qr.png",
-      "alipay": "./images/alipay-qr.png",
+      "wechat": "./images/qr-wechat.png",
+      "alipay": "./images/qr-alipay.jpg",
       "title": "",
       "button": "赞赏",
       "wechatText": "微信打赏",
       "alipayText": "支付宝打赏"
+    },
+    "valine": {
+      "placeholder": "请写下你的评论吧...",
+      "appId": "ySLPUuox4nBTlBAOBG5KuxpF-9Nh9j0Va",
+      "appKey": "Qv42N9zCOjovPpS8UhAvMTPH"
+    },
+    "baidu-tongji-with-multiple-channel": {
+      "url": "https://hm.baidu.com/hm.js",
+      "multipleChannelConfig": {
+        "jiangminggithub.github.io": {
+          "token": "0b2f170e6c78cf919df18cf11be6965f"
+        },
+        "jiangming_gitee.gitee.io": {
+          "token": "4fe4e9ea1b3ff2516cc9889677934774"
+        }
+      }
     }
   }
 }

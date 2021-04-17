@@ -12,13 +12,15 @@
 - include-csv 展示 csv 文件内容：[https://github.com/TakuroFukamizu/gitbook-plugin-include-csv](https://github.com/TakuroFukamizu/gitbook-plugin-include-csv)
 - musicxml 支持 musicxml 格式的乐谱渲染：[https://github.com/ymcatar/gitbook-plugin-musicxml](https://github.com/ymcatar/gitbook-plugin-musicxml) 
 - url-embed 嵌入动态内容：[https://github.com/basilvetas/gitbook-plugin-url-embed](https://github.com/basilvetas/gitbook-plugin-url-embed) 
+- valine 添加评论插件，[valine官网](https://valine.js.org/)：<https://github.com/kevinkangkang/gitbook-plugin-valine>
+- baidu-tongji-with-multiple-channel [百度统计](https://tongji.baidu.com/)插件：<https://github.com/snowdreams1006/gitbook-plugin-baidu-tongji-with-multiple-channel>
 - ...
 
 关于第三方插件的介绍就到这里了，大家有兴趣的可以去查看一下：[https://github.com/GitbookIO](https://github.com/GitbookIO)
 
 
 
-**更多的插件**，请到 [NPM Package](https://www.npmjs.com/package/) 或者 [GitHub](https://github.com) 中查询使用。
+**更多的插件**，请到 [NPM Package](https://www.npmjs.com/package/) 或者 [GitHub](https://github.com) 中查询 `gitbook-plugin-xxx` 使用。
 
 
 
